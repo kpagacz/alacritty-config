@@ -1,0 +1,4 @@
+import = [ "~/.config/alacritty/themes/themes/my_github_dark.toml" ]
+
+[font.normal]
+family = "CaskaydiaMono NF"
